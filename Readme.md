@@ -18,4 +18,6 @@ git push -u origin main
 
 
 $ git checkout -b "novo-botao" - criar nova banch
+git checkout main  - voltar para a branch main
+
 
